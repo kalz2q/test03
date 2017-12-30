@@ -1,2 +1,2 @@
-# test03
-yet another repository for jekyll
+# test02
+test jekyll site in gh-page
