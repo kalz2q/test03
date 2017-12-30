@@ -1,5 +1,5 @@
 ---
-layout: default
+# layout: default
 title: my first jekyll site
 ---
 # hellooon！！！
