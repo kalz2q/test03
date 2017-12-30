@@ -1,3 +1,5 @@
 # config.yml
 name: myJsite
 encoding: utf-8
+
+theme: jekyll-theme-architect
